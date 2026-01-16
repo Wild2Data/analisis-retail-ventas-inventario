@@ -90,7 +90,4 @@ El proyecto incluye vistas enfocadas en distintos niveles de decisión:
 🔗 **Ver dashboard en Power BI / NovyPro:**  
 *(agregar link cuando esté público)*
 
----
-
-## 📁 Estructura del repositorio
 
