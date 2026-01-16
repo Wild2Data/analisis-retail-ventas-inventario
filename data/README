@@ -1,0 +1,26 @@
+# 📂 Datos del proyecto Retail
+
+Este directorio contiene los datasets utilizados para el análisis de ventas, inventario y logística del proyecto retail.
+
+## 📄 Archivo principal
+- `dataset_retail_ventas_inventario.xlsx`
+
+## 🧾 Descripción de los datos
+El dataset incluye información relacionada con:
+- Ventas por sucursal
+- Productos y modelos
+- Inventario disponible
+- Días de cobertura
+- Proveedores
+- Órdenes y retrasos logísticos
+- Fechas y medios de pago
+
+Los datos representan una operación retail multicanal y multisucursal.
+
+## 🧹 Tratamiento de datos
+- Limpieza y validación inicial en Excel
+- Estandarización de campos
+- Preparación para modelado en Power BI
+
+> Nota:  
+> Los datos se utilizan como base para el análisis en Power BI y para la generación de KPIs operativos y comerciales.
