@@ -1,0 +1,18 @@
+# 🗄️ Consultas SQL – Proyecto Retail
+
+Este directorio contiene las consultas SQL utilizadas para apoyar el análisis de datos del proyecto retail.
+
+## 🎯 Objetivo del uso de SQL
+Las consultas se emplean para:
+- Exploración de datos
+- Validación de métricas
+- Cálculo de indicadores clave
+- Preparación de información para el análisis en Power BI
+
+## 📄 Contenido
+- Consultas de ventas
+- Agregaciones por sucursal y producto
+- Análisis de inventario y cobertura
+- Identificación de retrasos logísticos
+
+Las consultas están orientadas a responder preguntas de negocio y apoyar la toma de decisiones operativas.
